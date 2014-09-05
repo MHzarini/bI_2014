@@ -110,3 +110,4 @@ CakeLog::config('error', array(
 
 //libs imports
  App::import('Lib', 'Constants');
+ App::import('Lib', 'I18nConstants');
